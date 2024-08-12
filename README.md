@@ -1,4 +1,4 @@
-# App is hosted [here](https://sajson.github.io/responsive_website/) 😉
+# App is hosted [here](https://amokrzycki.github.io/responsive_website/) 😉
 
 ## Available Scripts
 
